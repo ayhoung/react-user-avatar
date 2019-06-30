@@ -45,6 +45,7 @@ class UserAvatar extends React.Component {
 
     const imageStyle = {
       display: 'block',
+      color: 'white',
       borderRadius
     };
 
